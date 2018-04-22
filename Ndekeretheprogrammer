@@ -1,0 +1,10 @@
+package ndekeretheprogrammer;
+//I want to Create a TEST Java APK
+
+public class NdekereTheProgrammer {
+
+public static void main ("string[] args"){
+
+system.out.println("HELLO and WELCOME! This is MY First TEST Java PROGRAM. Thank YOU for CHECKING this REPOSITORY!");
+             }
+   }          
